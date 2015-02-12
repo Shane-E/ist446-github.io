@@ -13,7 +13,7 @@ package
 	 */
 	public class EndMenu extends World 
 	{
-		[Embed(source = "../assets/EndMenu1.png")] private const BACKGROUND:Class;
+		[Embed(source = "../assets/EndMenu2.png")] private const BACKGROUND:Class;
 		private var bg:Image = new Image(BACKGROUND);
 		private var title:Text;
 		private var rescued:Text;
